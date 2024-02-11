@@ -2,7 +2,7 @@
 
 <p> This project is for personal use and is not intended for use in other projects, thus I will be treating this readme more as a journal entry than documentation. </p>
 
-Why?
+<h4> Why? </h4>
 
 This tool is a part of my journey to implement small QOL changes in my daily life through code. In my day job I work as a software consultant. I don't write any code, however, I still enjoy developing the odd side project and leaning new things. As a part of my role I work across many timezones and have a need to schedule meetings with clients or other consultants. Sometimes I won't have my calendar open in front of me, and much prefer to use keyboard shortcuts to speed things up. So, I had the thought to develop a CLI tool to achieve this. Whilst I will typically choose to develop in C#, as it is my preferred language, I have been learning the fundamentals of Rust and decided this would be a great program to learn the ropes.
 
