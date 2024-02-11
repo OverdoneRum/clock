@@ -12,4 +12,4 @@ Once I had all my variables, all I needed was to implement passing arguments for
 
 In future, I wouldn't mind developing an installer to set up the PATH variables instantaneously so I could easily set up on other machines.
 
-Whilst I usually memorise these times across each timezone, I now will no longer need to remember when daylight svaings changes across each timezone, which will surely save me a goiogle search or two.
+Whilst I usually memorise these times across each timezone, I now will no longer need to remember when daylight savings changes across each timezone, which will surely save me a goiogle search or two.
